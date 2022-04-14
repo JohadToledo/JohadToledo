@@ -2,7 +2,7 @@
 - https://johadtoledo.netlify.app/ this is my firt web and I am still working on it. xD
 
 - 👀 I’m interested in Website Developement
-- 🌱 I’m currently learning javascrip, react, and firebase.
+- 🌱 I’m currently learning node, grapgQL.
 - 💞️ I’m looking to collaborate on new side projects.
 - 📫 How to reach me https://johadtoledo.netlify.app/
 
