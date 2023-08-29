@@ -1,13 +1,13 @@
-- 👋 Hi, I’m Johad, a Frontend web development trainee who is working hard to learn every day something interested. 
-- https://johadtoledo.netlify.app/ this is my firt web and I am still working on it. xD
+- 👋 Hi, I’m Johad, a Frontend web development trainee who is working hard to learn every day something. 
+- https://johadtoledo.vercel.app This is my portfolio and I am still working on it. xD
 
-- 👀 I’m interested in Website Developement
-- 🌱 I’m currently learning node, grapgQL.
+- 👀 I’m interested in Website Development
+- 🌱 I’m currently learning node.
 - 💞️ I’m looking to collaborate on new side projects.
-- 📫 How to reach me https://johadtoledo.netlify.app/
+- 📫 How to reach me https://johadtoledo.vercel.app
 
 ### Hot Links
-- 📺  https://johadtoledo.netlify.app/
+- 📺  https://johadtoledo.vercel.app
 - 🧾  https://www.linkedin.com/in/johad-toledo-webdeveloper/
 - ✉️  johadtoledo@gmail.com
 
